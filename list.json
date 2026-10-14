@@ -4,16 +4,13 @@
       "id": "Hearts2Hearts",
       "name": "Hearts2Hearts",
       "thumb": "https://i.pinimg.com/474x/b7/14/c1/b714c1365f7b6e9333d24879b34d3dc1.jpg",
-      "photos": "Hearts2Hearts.txt"}
-  ]
-},
-{
-  "artists": [
+      "photos": "Hearts2Hearts.txt"},
     {
       "id": "CORTIS",
       "name": "CORTIS",
       "thumb": "https://i.pinimg.com/474x/e1/27/d8/e127d898308f54650965b75bb0345551.jpg",
       "photos": "CORTIS.txt"}
+  
   ]
 }
 
