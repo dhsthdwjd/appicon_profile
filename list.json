@@ -9,7 +9,12 @@
       "id": "CORTIS",
       "name": "CORTIS",
       "thumb": "https://i.pinimg.com/474x/e1/27/d8/e127d898308f54650965b75bb0345551.jpg",
-      "photos": "CORTIS.json"}
+      "photos": "CORTIS.json"},
+      {
+        "id": "TOMORROW X TOGETHER",
+        "name": "TOMORROW X TOGETHER",
+        "thumb": "https://i.pinimg.com/474x/3e/2b/83/3e2b83541c815597a3cf7cb159112de4.jpg",
+        "photos": "TXT.json"}
   
   ]
 }
