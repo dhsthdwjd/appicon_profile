@@ -1,333 +1,325 @@
 {
-  "artists": [
-    {
-      "id": "AHOF",
-      "name": "AHOF",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/e7/e7/cc/e7e7cc7306b2dcae1210e6b7683181a7.jpg",
-      "photos": "AHOF.json"
-    },
-    {
-      "id": "ALLDAY PROJECT",
-      "name": "ALLDAY PROJECT",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/79/88/88/798888c030576a29f4a9dc5e096e3407.jpg",
-      "photos": "ALLDAY PROJECT.json"
-    },
-    {
-      "id": "BABYMONSTER",
-      "name": "BABYMONSTER",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/65/e3/b7/65e3b77e31faa22e706a7aa4fd1fb6c7.jpg",
-      "photos": "BABYMONSTER.json"
-    },
-    {
-      "id": "BILLLIE",
-      "name": "BILLLIE",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/1f/eb/e1/1febe1da6c9cdae9e71e913e3f8ae249.jpg",
-      "photos": "BILLLIE.json"
-    },
-    {
-      "id": "BOYNEXTDOOR",
-      "name": "BOYNEXTDOOR",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/80/12/28/801228dbe04c268b8eb4f62e9ce57722.jpg",
-      "photos": "BOYNEXTDOOR.json"
-    },
-    {
-      "id": "CORTIS",
-      "name": "CORTIS",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/27/b3/ca/27b3ca855cb8fff3263310b80e0cb6df.jpg",
-      "photos": "CORTIS.json"
-    },
-    {
-      "id": "Hearts2Hearts",
-      "name": "Hearts2Hearts",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/f5/25/27/f52527b2165d1bfaa34219586fa12d9e.jpg",
-      "photos": "Hearts2Hearts.json"
-    },
-    {
-      "id": "KATSEYE",
-      "name": "KATSEYE",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/f8/2c/9e/f82c9edba018f82ab3f380dee7da6a8a.jpg",
-      "photos": "KATSEYE.json"
-    },
-    {
-      "id": "KIOF",
-      "name": "KIOF",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/c7/d7/ef/c7d7ef0e6230c226593c88808792f5d3.jpg",
-      "photos": "KIOF.json"
-    },
-    {
-      "id": "KickFlip",
-      "name": "KickFlip",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/b0/d5/2f/b0d52f287b6e0ee62fa39621d9b8346d.jpg",
-      "photos": "KickFlip.json"
-    },
-    {
-      "id": "KiiiKiii",
-      "name": "KiiiKiii",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/b4/6c/25/b46c25c250d64e8fdf11a0b5db07d6f8.jpg",
-      "photos": "KiiiKiii.json"
-    },
-    {
-      "id": "P1Harmony",
-      "name": "P1Harmony",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/3c/05/8a/3c058adf18a9845fb43c7531968c5ffb.jpg",
-      "photos": "P1Harmony.json"
-    },
-    {
-      "id": "RESCENE",
-      "name": "RESCENE",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/99/a9/5e/99a95ecc030e0ecc4c49ccd8aaf3601e.jpg",
-      "photos": "RESCENE.json"
-    },
-    {
-      "id": "RIIZE",
-      "name": "RIIZE",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/dc/62/15/dc62153e5f259a90d83bf1adaf80b9e8.jpg",
-      "photos": "RIIZE.json"
-    },
-    {
-      "id": "TWS",
-      "name": "TWS",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/b5/ae/12/b5ae12fa23c04be32b5d4126485c8e42.jpg",
-      "photos": "TWS.json"
-    },
-    {
-      "id": "aespa",
-      "name": "aespa",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/e6/61/43/e6614364c356210c85baa7ea3a26bf2e.jpg",
-      "photos": "aespa.json"
-    },
-    {
-      "id": "ateez",
-      "name": "ateez",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/be/4f/92/be4f92d77b7923d6da79b4ce623f063a.jpg",
-      "photos": "ateez.json"
-    },
-    {
-      "id": "bbgirl",
-      "name": "bbgirl",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/cb/ca/5f/cbca5f0b9d7a02ecd0d614e901d1e2eb.jpg",
-      "photos": "bbgirl.json"
-    },
-    {
-      "id": "blackpink_v2",
-      "name": "blackpink_v2",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/6e/e4/ba/6ee4ba9a7bc5b73d54ad54a24d4d7a12.jpg",
-      "photos": "blackpink_v2.json"
-    },
-    {
-      "id": "cravity",
-      "name": "cravity",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/ae/d5/fb/aed5fb9b9db5ef6e9e46747211fd63eb.jpg",
-      "photos": "cravity.json"
-    },
-    {
-      "id": "dreamcatcher",
-      "name": "dreamcatcher",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/d7/bb/3b/d7bb3b6d02c2723b636999d2358b4347.jpg",
-      "photos": "dreamcatcher.json"
-    },
-    {
-      "id": "enhypen",
-      "name": "enhypen",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/c3/6c/1b/c36c1b34efd46bee9b76b9adc7920a14.jpg",
-      "photos": "enhypen.json"
-    },
-    {
-      "id": "fromis9",
-      "name": "fromis9",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/75/fb/89/75fb89475ca5ff95e69c32c21f437867.jpg",
-      "photos": "fromis9.json"
-    },
-    {
-      "id": "idle",
-      "name": "idle",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/e3/8b/96/e38b962c94ae30b63dc5cbf273874884.jpg",
-      "photos": "idle.json"
-    },
-    {
-      "id": "illit",
-      "name": "illit",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/a5/73/a9/a573a9ee42a76cea145efc0f91c7c5c5.jpg",
-      "photos": "illit.json"
-    },
-    {
-      "id": "itzy",
-      "name": "itzy",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/f6/c7/c3/f6c7c32d9523fc8a859f1b92f190dfdb.jpg",
-      "photos": "itzy.json"
-    },
-    {
-      "id": "iu",
-      "name": "iu",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/28/ca/d9/28cad9a3fd81647ca0ace81239035b57.jpg",
-      "photos": "iu.json"
-    },
-    {
-      "id": "ive",
-      "name": "ive",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/60/06/07/60060764ed6745e2c8a3b6721ae66b3a.jpg",
-      "photos": "ive.json"
-    },
-    {
-      "id": "izna",
-      "name": "izna",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/b1/3e/59/b13e5911b59a84465c9c1c7289093ab0.jpg",
-      "photos": "izna.json"
-    },
-    {
-      "id": "kep1er",
-      "name": "kep1er",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/c0/b1/d4/c0b1d4e334b45e692b739ab3ec65403b.jpg",
-      "photos": "kep1er.json"
-    },
-    {
-      "id": "lesserafim",
-      "name": "lesserafim",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/9e/30/cd/9e30cd286724c177e472d8159fe829fc.jpg",
-      "photos": "lesserafim.json"
-    },
-    {
-      "id": "meovv",
-      "name": "meovv",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/d2/84/3c/d2843cae9af24bbbb4084254513bec9b.jpg",
-      "photos": "meovv.json"
-    },
-    {
-      "id": "newjeans",
-      "name": "newjeans",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/0c/ec/10/0cec10f77df01aad7d42e0ac9920ebbf.jpg",
-      "photos": "newjeans.json"
-    },
-    {
-      "id": "niziu",
-      "name": "niziu",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/b9/22/33/b922332f0cb838d68bd348dc27fbb147.jpg",
-      "photos": "niziu.json"
-    },
-    {
-      "id": "nmixx",
-      "name": "nmixx",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/08/58/74/0858741c00983edf7dc78f0c3973068e.jpg",
-      "photos": "nmixx.json"
-    },
-    {
-      "id": "ohmygirl",
-      "name": "ohmygirl",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/51/5d/d3/515dd3edddf755afea3f570b901ba4ad.jpg",
-      "photos": "ohmygirl.json"
-    },
-    {
-      "id": "redvelvet",
-      "name": "redvelvet",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/03/2c/76/032c76fb63ce4f1fc741cbe190dae83d.jpg",
-      "photos": "redvelvet.json"
-    },
-    {
-      "id": "seventeen",
-      "name": "seventeen",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/0c/d5/93/0cd5930fdbfeb289eb069de6a9fd4731.jpg",
-      "photos": "seventeen.json"
-    },
-    {
-      "id": "skz",
-      "name": "skz",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/1c/73/d8/1c73d8ffdceddcf81de7a4bfdaa5d448.jpg",
-      "photos": "skz.json"
-    },
-    {
-      "id": "stayc",
-      "name": "stayc",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/1d/5d/98/1d5d98da197eb47ae82914f441b651f0.jpg",
-      "photos": "stayc.json"
-    },
-    {
-      "id": "superjunior",
-      "name": "superjunior",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/0f/b0/dc/0fb0dc67beb6dea603a6d3a215507250.jpg",
-      "photos": "superjunior.json"
-    },
-    {
-      "id": "theboyz",
-      "name": "theboyz",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/54/2a/79/542a7979c2dd21f7150d1d92ab8d353c.jpg",
-      "photos": "theboyz.json"
-    },
-    {
-      "id": "treasure",
-      "name": "treasure",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/9e/a0/ee/9ea0ee0713d3e822658b9c20d1302b8a.jpg",
-      "photos": "treasure.json"
-    },
-    {
-      "id": "twice",
-      "name": "twice",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/51/e7/97/51e7972770e67788387803bd538c8932.jpg",
-      "photos": "twice.json"
-    },
-    {
-      "id": "txt",
-      "name": "txt",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/3e/2b/83/3e2b83541c815597a3cf7cb159112de4.jpg",
-      "photos": "txt.json"
-    },
-    {
-      "id": "viviz",
-      "name": "viviz",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/bb/2a/05/bb2a054df9e88efb5a07ba53dd682e09.jpg",
-      "photos": "viviz.json"
-    },
-    {
-      "id": "zb1",
-      "name": "zb1",
-      "type": "girl",
-      "thumb": "https://i.pinimg.com/474x/b8/6a/13/b86a13fa1714e2557ab7b3108f9a578c.jpg",
-      "photos": "zb1.json"
-    }
-  ]
+	"artists": [
+		{
+			"id": "Stray Kids",
+			"name": "Stray Kids",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/1c/73/d8/1c73d8ffdceddcf81de7a4bfdaa5d448.jpg",
+			"photos": "Stray Kids.json"
+		},
+		{
+			"id": "SEVENTEEN",
+			"name": "SEVENTEEN",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/0c/d5/93/0cd5930fdbfeb289eb069de6a9fd4731.jpg",
+			"photos": "SEVENTEEN.json"
+		},
+		{
+			"id": "CORTIS",
+			"name": "CORTIS",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/27/b3/ca/27b3ca855cb8fff3263310b80e0cb6df.jpg",
+			"photos": "CORTIS.json"
+		},
+		{
+			"id": "ATEEZ",
+			"name": "ATEEZ",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/be/4f/92/be4f92d77b7923d6da79b4ce623f063a.jpg",
+			"photos": "ATEEZ.json"
+		},
+		{
+			"id": "TOMORROW X TOGETHER",
+			"name": "TOMORROW X TOGETHER",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/3e/2b/83/3e2b83541c815597a3cf7cb159112de4.jpg",
+			"photos": "TOMORROW X TOGETHER.json"
+		},
+		{
+			"id": "ZEROBASEONE",
+			"name": "ZEROBASEONE",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/b8/6a/13/b86a13fa1714e2557ab7b3108f9a578c.jpg",
+			"photos": "ZEROBASEONE.json"
+		},
+		{
+			"id": "ENHYPEN",
+			"name": "ENHYPEN",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/c3/6c/1b/c36c1b34efd46bee9b76b9adc7920a14.jpg",
+			"photos": "ENHYPEN.json"
+		},
+		{
+			"id": "AHOF",
+			"name": "AHOF",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/e7/e7/cc/e7e7cc7306b2dcae1210e6b7683181a7.jpg",
+			"photos": "AHOF.json"
+		},
+		{
+			"id": "ALLDAY PROJECT",
+			"name": "ALLDAY PROJECT",
+			"thumb": "https://i.pinimg.com/474x/79/88/88/798888c030576a29f4a9dc5e096e3407.jpg",
+			"photos": "ALLDAY PROJECT.json"
+		},
+		{
+			"id": "BABYMONSTER",
+			"name": "BABYMONSTER",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/65/e3/b7/65e3b77e31faa22e706a7aa4fd1fb6c7.jpg",
+			"photos": "BABYMONSTER.json"
+		},
+		{
+			"id": "BOYNEXTDOOR",
+			"name": "BOYNEXTDOOR",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/80/12/28/801228dbe04c268b8eb4f62e9ce57722.jpg",
+			"photos": "BOYNEXTDOOR.json"
+		},
+		{
+			"id": "KickFlip",
+			"name": "KickFlip",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/b0/d5/2f/b0d52f287b6e0ee62fa39621d9b8346d.jpg",
+			"photos": "KickFlip.json"
+		},
+		{
+			"id": "P1Harmony",
+			"name": "P1Harmony",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/3c/05/8a/3c058adf18a9845fb43c7531968c5ffb.jpg",
+			"photos": "P1Harmony.json"
+		},
+		{
+			"id": "RIIZE",
+			"name": "RIIZE",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/dc/62/15/dc62153e5f259a90d83bf1adaf80b9e8.jpg",
+			"photos": "RIIZE.json"
+		},
+		{
+			"id": "TWS",
+			"name": "TWS",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/b5/ae/12/b5ae12fa23c04be32b5d4126485c8e42.jpg",
+			"photos": "TWS.json"
+		},
+		{
+			"id": "aespa",
+			"name": "aespa",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/e6/61/43/e6614364c356210c85baa7ea3a26bf2e.jpg",
+			"photos": "aespa.json"
+		},
+		{
+			"id": "RESCENE",
+			"name": "RESCENE",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/99/a9/5e/99a95ecc030e0ecc4c49ccd8aaf3601e.jpg",
+			"photos": "RESCENE.json"
+		},
+		{
+			"id": "KATSEYE",
+			"name": "KATSEYE",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/f8/2c/9e/f82c9edba018f82ab3f380dee7da6a8a.jpg",
+			"photos": "KATSEYE.json"
+		},
+		{
+			"id": "fromis_9",
+			"name": "fromis_9",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/75/fb/89/75fb89475ca5ff95e69c32c21f437867.jpg",
+			"photos": "fromis_9.json"
+		},
+		{
+			"id": "ILLIT",
+			"name": "ILLIT",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/a5/73/a9/a573a9ee42a76cea145efc0f91c7c5c5.jpg",
+			"photos": "ILLIT.json"
+		},
+		{
+			"id": "IVE",
+			"name": "IVE",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/60/06/07/60060764ed6745e2c8a3b6721ae66b3a.jpg",
+			"photos": "IVE.json"
+		},
+		{
+			"id": "Hearts2Hearts",
+			"name": "Hearts2Hearts",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/f5/25/27/f52527b2165d1bfaa34219586fa12d9e.jpg",
+			"photos": "Hearts2Hearts.json"
+		},
+		{
+			"id": "KISS OF LIFE",
+			"name": "KISS OF LIFE",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/c7/d7/ef/c7d7ef0e6230c226593c88808792f5d3.jpg",
+			"photos": "KISS OF LIFE.json"
+		},
+		{
+			"id": "BILLLIE",
+			"name": "BILLLIE",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/1f/eb/e1/1febe1da6c9cdae9e71e913e3f8ae249.jpg",
+			"photos": "BILLLIE.json"
+		},
+		{
+			"id": "KiiiKiii",
+			"name": "KiiiKiii",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/b4/6c/25/b46c25c250d64e8fdf11a0b5db07d6f8.jpg",
+			"photos": "KiiiKiii.json"
+		},
+		{
+			"id": "BBGIRLS",
+			"name": "BBGIRLS",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/cb/ca/5f/cbca5f0b9d7a02ecd0d614e901d1e2eb.jpg",
+			"photos": "BBGIRLS.json"
+		},
+		{
+			"id": "BLACKPINK",
+			"name": "BLACKPINK",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/6e/e4/ba/6ee4ba9a7bc5b73d54ad54a24d4d7a12.jpg",
+			"photos": "BLACKPINK.json"
+		},
+		{
+			"id": "CRAVITY",
+			"name": "CRAVITY",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/ae/d5/fb/aed5fb9b9db5ef6e9e46747211fd63eb.jpg",
+			"photos": "CRAVITY.json"
+		},
+		{
+			"id": "i-dle",
+			"name": "i-dle",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/e3/8b/96/e38b962c94ae30b63dc5cbf273874884.jpg",
+			"photos": "idle.json"
+		},
+		{
+			"id": "ITZY",
+			"name": "ITZY",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/f6/c7/c3/f6c7c32d9523fc8a859f1b92f190dfdb.jpg",
+			"photos": "ITZY.json"
+		},
+		{
+			"id": "IU",
+			"name": "IU",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/28/ca/d9/28cad9a3fd81647ca0ace81239035b57.jpg",
+			"photos": "IU.json"
+		},
+		{
+			"id": "IZNA",
+			"name": "IZNA",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/b1/3e/59/b13e5911b59a84465c9c1c7289093ab0.jpg",
+			"photos": "IZNA.json"
+		},
+		{
+			"id": "Kep1er",
+			"name": "Kep1er",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/c0/b1/d4/c0b1d4e334b45e692b739ab3ec65403b.jpg",
+			"photos": "Kep1er.json"
+		},
+		{
+			"id": "LE SSERAFIM",
+			"name": "LE SSERAFIM",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/9e/30/cd/9e30cd286724c177e472d8159fe829fc.jpg",
+			"photos": "LE SSERAFIM.json"
+		},
+		{
+			"id": "MEOVV",
+			"name": "MEOVV",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/d2/84/3c/d2843cae9af24bbbb4084254513bec9b.jpg",
+			"photos": "MEOVV.json"
+		},
+		{
+			"id": "NewJeans",
+			"name": "NewJeans",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/0c/ec/10/0cec10f77df01aad7d42e0ac9920ebbf.jpg",
+			"photos": "NewJeans.json"
+		},
+		{
+			"id": "NiziU",
+			"name": "NiziU",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/b9/22/33/b922332f0cb838d68bd348dc27fbb147.jpg",
+			"photos": "NiziU.json"
+		},
+		{
+			"id": "NMIXX",
+			"name": "NMIXX",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/08/58/74/0858741c00983edf7dc78f0c3973068e.jpg",
+			"photos": "NMIXX.json"
+		},
+		{
+			"id": "OH MY GIRL",
+			"name": "OH MY GIRL",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/51/5d/d3/515dd3edddf755afea3f570b901ba4ad.jpg",
+			"photos": "OH MY GIRL.json"
+		},
+		{
+			"id": "Red Velvet",
+			"name": "Red Velvet",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/03/2c/76/032c76fb63ce4f1fc741cbe190dae83d.jpg",
+			"photos": "Red Velvet.json"
+		},
+		{
+			"id": "STAYC",
+			"name": "STAYC",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/1d/5d/98/1d5d98da197eb47ae82914f441b651f0.jpg",
+			"photos": "STAYC.json"
+		},
+		{
+			"id": "SUPER JUNIOR",
+			"name": "SUPER JUNIOR",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/0f/b0/dc/0fb0dc67beb6dea603a6d3a215507250.jpg",
+			"photos": "SUPER JUNIOR.json"
+		},
+		{
+			"id": "THE BOYZ",
+			"name": "THE BOYZ",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/54/2a/79/542a7979c2dd21f7150d1d92ab8d353c.jpg",
+			"photos": "THE BOYZ.json"
+		},
+		{
+			"id": "TREASURE",
+			"name": "TREASURE",
+			"type": "boy",
+			"thumb": "https://i.pinimg.com/474x/9e/a0/ee/9ea0ee0713d3e822658b9c20d1302b8a.jpg",
+			"photos": "TREASURE.json"
+		},
+		{
+			"id": "TWICE",
+			"name": "TWICE",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/51/e7/97/51e7972770e67788387803bd538c8932.jpg",
+			"photos": "TWICE.json"
+		},
+		{
+			"id": "VIVIZ",
+			"name": "VIVIZ",
+			"type": "girl",
+			"thumb": "https://i.pinimg.com/474x/bb/2a/05/bb2a054df9e88efb5a07ba53dd682e09.jpg",
+			"photos": "VIVIZ.json"
+		}
+	]
 }
