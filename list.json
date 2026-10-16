@@ -3,16 +3,19 @@
     {
       "id": "Hearts2Hearts",
       "name": "Hearts2Hearts",
+	  "type": "girl",
       "thumb": "https://i.pinimg.com/474x/b7/14/c1/b714c1365f7b6e9333d24879b34d3dc1.jpg",
       "photos": "Hearts2Hearts.json"},
     {
       "id": "CORTIS",
       "name": "CORTIS",
+	  "type": "boy",
       "thumb": "https://i.pinimg.com/474x/e1/27/d8/e127d898308f54650965b75bb0345551.jpg",
       "photos": "CORTIS.json"},
       {
         "id": "TOMORROW X TOGETHER",
         "name": "TOMORROW X TOGETHER",
+		"type": "boy",
         "thumb": "https://i.pinimg.com/474x/3e/2b/83/3e2b83541c815597a3cf7cb159112de4.jpg",
         "photos": "TXT.json"}
   
